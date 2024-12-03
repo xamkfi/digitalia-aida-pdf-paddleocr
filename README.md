@@ -1,3 +1,4 @@
+![alt text](https://www.xamk.fi/app/uploads/sites/2/2024/04/FI_Co-fundedbytheEU_RGB_POS-e1724236553174-768x168.png)
 1. Ensure you have docker installed
 2. Clone the repository
 3. Run sudo docker build -t somenameyouwanttouse .
